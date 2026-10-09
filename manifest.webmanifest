@@ -1,0 +1,25 @@
+{
+  "name": "Sainte-Baume — Guide GPS",
+  "short_name": "Sainte-Baume",
+  "description": "Randonnée grotte et Saint-Pilon, trace GPX importable et consultation hors ligne.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#13231c",
+  "theme_color": "#15251d",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
